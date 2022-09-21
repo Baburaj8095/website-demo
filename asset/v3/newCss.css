@@ -6,6 +6,11 @@
 #comp-k5cfsti1_r_comp-k6gjwdd6 .comp-k5cfsti1_r_comp-k6gjwdd6-container
 {
   display: flex;
+ position: relative;
+  box-sizing: border-box;
+  padding-left: 5%;
+  padding-right: 5%;
+  align-items: center;
 }
 
 .topnav a {
